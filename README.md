@@ -13,3 +13,6 @@ meteor
 ```
 
 And open [http://127.0.0.1:3000/index.html](http://127.0.0.1:3000/index.html).
+
+Original benchmark: http://elm-lang.org/blog/Blazing-Fast-Html.elm ([source code](https://github.com/evancz/todomvc-perf-comparison))
+
